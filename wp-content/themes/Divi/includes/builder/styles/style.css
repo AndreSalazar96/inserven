@@ -41,6 +41,7 @@
 	position: relative;
 	color: #32373c;
 	min-height: 250px;
+	line-height: 1.4em;
 }
 
 #et_pb_main_container a:active {
@@ -7442,8 +7443,8 @@ p.et_pb_global_divider {
 	margin: -16px 0 0 -16px;
 	border-radius: 32px;
 }
-.mce-toolbar .mce-btn button,
-.qt-dfw {
+.et-pb-option-container .mce-toolbar .mce-btn button,
+.et-pb-option-container .qt-dfw {
 	padding: 3px 10px !important;
 	border: none;
 }
